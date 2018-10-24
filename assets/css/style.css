@@ -919,9 +919,10 @@ Home Section style
 ==================*/
 
 .home{
-    background: url(../images/homebg.png) no-repeat top center;
+    background: no-repeat top center;
     background-size: cover;
     position: relative;
+    background-color: #8CDEDC;
 }
 .main_home{
     overflow: hidden;
@@ -930,8 +931,8 @@ Home Section style
 }
 .home_text h1{
     font-family: 'Ubuntu', sans-serif;
-    font-size:3.750rem;
-    font-weight: 700;
+    font-size:3rem;
+    font-weight: 500;
     line-height: 4.5rem;
 }
 .home_btns{
