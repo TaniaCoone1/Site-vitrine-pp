@@ -40,6 +40,10 @@ body {
     font-weight: 400;
     width:100%;
     font-family: 'Ubuntu', sans-serif;
+    background-image: url(../images/dechet01.png);
+    background-position:top center;
+    background-size:contain;
+    background-repeat:no-repeat;
 }
 
 /*------------------------------------------------------------------*/
@@ -880,7 +884,7 @@ Home Section style
     background: no-repeat top center;
     background-size: cover;
     position: relative;
-    background-image: url(../images/dechet01.png);
+
     
 }
 .main_home{
