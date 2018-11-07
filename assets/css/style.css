@@ -28,9 +28,9 @@ Author URI: http://bootstrapthemes.co
    ========================================================================== */
 html,
 body {
-    /*background:url(../images/bodybg.png) repayet-y;*/
+  
     
-    background-repeat: repeat-y;
+    background-color: black;
     font-size: 16px;
     color: #797979;
     width: 100%;
@@ -922,7 +922,7 @@ Home Section style
     background: no-repeat top center;
     background-size: cover;
     position: relative;
-    background-color: #8CDEDC;
+    background-color: black;
 }
 .main_home{
     overflow: hidden;
