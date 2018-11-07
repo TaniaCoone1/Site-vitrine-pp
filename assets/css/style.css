@@ -101,18 +101,7 @@ section { overflow: hidden; }
 }
 
 
-/*text color*/
 
-.text-muted{}
-
-.text-primary{color: #fc6a42 !important;;}
-.text-finence{color:#13A0B2 !important;;}
-.text-mega{color:#fc6a42 !important;;}
-.text-white{color:#fff !important;;}
-.text-black{color:#000 !important;}
-
-.text-warning{}
-.text-danger{}
 
 .disabled{
     cursor: not-allowed;
@@ -225,7 +214,6 @@ h5,
 h6 {
     margin: 0;
     font-family: 'Ubuntu', sans-serif;
-    color:#1a1a1a;
     margin-bottom: 10px;
 }
 
@@ -234,6 +222,7 @@ h1 {
     line-height: 4rem;
 }
 h2 {
+    color: #00FF00;
     font-size: 2.5rem;
     line-height: 3rem;
 }
@@ -751,7 +740,7 @@ textarea::-ms-input-placeholder{
 .head_title h2{
     font-weight: 700;
     font-size:2.250rem;
-    color:#648cff;
+    color: #00FF00;
 }
 .head_title h5{
     font-weight: 400;
@@ -930,6 +919,7 @@ Home Section style
     padding-bottom: 230px;
 }
 .home_text h1{
+    color: #FF0000;
     font-family: 'Ubuntu', sans-serif;
     font-size:3rem;
     font-weight: 500;
@@ -1033,6 +1023,7 @@ Screen01 Section style
 .screen02_img,
 .screen01_img{
     position: relative;
+    background-color: grey;
 }
 .screen03_img img,
 .screen02_img img,
