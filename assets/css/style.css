@@ -39,7 +39,7 @@ body {
     margin-right: 0;
     font-weight: 400;
     width:100%;
-    font-family: 'Ubuntu', sans-serif;
+   font-family: 'KoHo', sans-serif;
   
     background-position:top center;
     background-size:contain;
@@ -207,7 +207,7 @@ h4,
 h5,
 h6 {
     margin: 0;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'KoHo', sans-serif;
     margin-bottom: 10px;
     font-color: white;
 }
@@ -876,7 +876,7 @@ Home Section style
 }
 .home_text h1{
     color: white;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'KoHo', sans-serif;
     font-size:3rem;
     font-weight: 500;
     line-height: 4.5rem;
