@@ -152,6 +152,7 @@ a {
 
 p {
     margin: 0 0 15px;
+    text-align: left;
 }
 
 .clear {
@@ -692,6 +693,7 @@ textarea::-ms-input-placeholder{
 h3 { 
     color: #7bc5b1;
     padding-bottom: 50px;
+    text-align: left;
 }
 h2 {
     color: white ;
