@@ -212,14 +212,9 @@ h6 {
     font-color: white;
 }
 
-h1 {
-    font-color: white;
-    font-size: 3rem;
-    line-height: 4rem;
-   
 }
 h2 {
-    color: white;
+    color: #7bc5b1;
     font-size: 2.5rem;
     line-height: 3rem;
   
@@ -875,7 +870,7 @@ Home Section style
     padding-bottom: 450px;
 }
 .home_text h1{
-    color: white;
+    color: #e94b47;
     font-family: 'KoHo', sans-serif;
     font-size:3rem;
     font-weight: 500;
