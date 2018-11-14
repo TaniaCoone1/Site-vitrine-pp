@@ -562,7 +562,7 @@ p-0{
     padding-bottom: 6.429rem;
 }
 .p-top-100 {
-    padding-top: 100px;
+    padding-top: 150px;
 }
 
 .p-bottom-100 {
@@ -690,9 +690,14 @@ textarea::-ms-input-placeholder{
 }
 
 h3 { 
-color: #7bc5b1;
+    color: #7bc5b1;
+    padding-bottom: 50px;
 }
+h2 {
+    color: white ;
+    font-size: 50px;
 
+}
 /*End off pridifain css*/
 
 
@@ -836,7 +841,7 @@ Home Section style
 .home_text h1{
     color: #e94b47;
     font-family: 'KoHo', sans-serif;
-    font-size:3rem;
+    font-size:8rem;
     font-weight: 500;
     line-height: 4.5rem;
 }
