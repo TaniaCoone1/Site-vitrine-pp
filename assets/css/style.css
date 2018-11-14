@@ -706,17 +706,6 @@ textarea::-ms-input-placeholder{
     padding: 5px;
 }
 
-/*for image bg*/
-/*.img-bg{
-  background: url(../images/home-msg.jpg) no-repeat center top fixed;
-  background-size
-  -moz-background-size: cover;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  width: 100%;
-  overflow: hidden;
-}*/
 
 
 .transform_scal_rotate:hover img{ 
@@ -737,6 +726,7 @@ textarea::-ms-input-placeholder{
     font-weight: 700;
     font-size:2.250rem;
     color: white;
+    padding-top: 100px;
 }
 .head_title h5{
     font-weight: 400;
@@ -882,7 +872,7 @@ Home Section style
 .main_home{
     overflow: hidden;
     padding-top: 100px;
-    padding-bottom: 230px;
+    padding-bottom: 450px;
 }
 .home_text h1{
     color: white;
@@ -918,6 +908,9 @@ Home Section style
 /*
 Featured section style
 ========================*/
+
+
+
 .main_features{}
 .features_item{}
 .features_item .f_item_icon{
@@ -939,7 +932,7 @@ Featured section style
 /*
 Testimonial Section style
 =====================*/
-.main_drag{
+.main_drag{ 
     overflow: hidden;
 }
 
