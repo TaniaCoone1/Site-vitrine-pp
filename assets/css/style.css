@@ -30,7 +30,7 @@ html,
 body {
   
     
-    background-color: #1e1e25;
+    background-color: black;
     font-size: 16px;
     color: white;
     width: 100%;
@@ -39,7 +39,7 @@ body {
     margin-right: 0;
     font-weight: 400;
     width:100%;
-   font-family: 'KoHo', sans-serif;
+    font-family: 'KoHo', sans-serif;
   
     background-position:top center;
     background-size:contain;
@@ -673,34 +673,45 @@ textarea::-ms-input-placeholder{
     width:100%;
     overflow: hidden;
 }
-/*heading title all area*/
+/*Section Présentation*/
 .head_title{
-    padding-bottom: 7.143rem;
     overflow: hidden;
 }
-.head_title h2{
-    font-weight: 700;
-    font-size:2.250rem;
-    color: #7bc5b1;
-    padding-top: 100px;
-}
-.head_title h5{
-    font-weight: 400;
-    font-size:1.125rem;
-    color: #7bc5b1;
-}
-
-h3 { 
-    color: #7bc5b1;
-    padding-bottom: 50px;
+.head_title h3 { 
+    color: #646464;
     text-align: left;
 }
+.head_title h4 { 
+    color: #646464;
+    text-align: left;
+    font-size: 20px;
+    padding-top: 12px;
+}
+.head_title p { 
+    color: #505050;
+    text-align: left;
+}
+
+.special_bouton { 
+    padding-top:25px;
+}
+.image_font {
+    margin-top: 30px;
+
+}
+.trois_item{
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+ /*Fin présentation*/
+
 h2 {
     color: white ;
     font-size: 50px;
 
 }
-/*End off pridifain css*/
+
 
 
 
@@ -840,16 +851,23 @@ Home Section style
     padding-top: 100px;
     padding-bottom: 450px;
 }
+
+@media screen and (max-width: 360px)
+{
+  .main_home{  
+    
+        padding-bottom:300px;
+   } 
+}
+
 .home_text h1{
-    color: #e94b47;
     font-family: 'KoHo', sans-serif;
+    color: #505050;
     font-size:8rem;
     font-weight: 500;
     line-height: 4.5rem;
 }
-.home_btns{
-    margin-left:-10px;
-}
+
 .home_btns a{
     margin-left:10px;
 }
