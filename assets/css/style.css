@@ -311,17 +311,19 @@ Featured section style
 
 
 .features_item .f_item_icon{
-    float: left;
+    position: center;
     width:20%;
-    display: inline-block;
+    display: block;
     margin-right: 15px;
 }
 .features_item .f_item_icon i{
+    position: center;
     font-size:4rem;
     color:#fc6a42;
 }
 .features_item .f_item_text{
-    display: inline-block;
+    position: center;
+    display: block;
     width:70%;
 }
 
